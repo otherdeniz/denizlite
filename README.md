@@ -1,5 +1,5 @@
-Litecoin Core integration/staging tree
-=====================================
+Denizlite
+=========
 
 What is denizlite?
 ----------------
