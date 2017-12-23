@@ -10,8 +10,8 @@ src/test/test_litecoin_fuzzy
 src/qt/test/test_denizlite-qt
 
 # autoreconf
-Makefile.in
-aclocal.m4
+# Makefile.in
+# aclocal.m4
 autom4te.cache/
 build-aux/config.guess
 build-aux/config.sub
@@ -28,44 +28,34 @@ build-aux/compile
 build-aux/test-driver
 config.log
 config.status
-configure
-libtool
-src/config/bitcoin-config.h
-src/config/bitcoin-config.h.in
+# configure
+# libtool
+src/config/denizlite-config.h
+src/config/denizlite-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
 
-src/univalue/gen
+# src/univalue/gen
 
-src/qt/*.moc
-src/qt/moc_*.cpp
-src/qt/forms/ui_*.h
+# src/qt/*.moc
+# src/qt/moc_*.cpp
+# src/qt/forms/ui_*.h
 
-src/qt/test/moc*.cpp
+# src/qt/test/moc*.cpp
 
 .deps
 .dirstamp
 .libs
 .*.swp
 *.*~*
-*.bak
-*.rej
-*.orig
-*.pyc
-*.o
-*.o-*
-*.patch
-*.a
-*.pb.cc
-*.pb.h
 
 *.log
 *.trs
-*.dmg
+# *.dmg
 
-*.json.h
-*.raw.h
+# *.json.h
+# *.raw.h
 
 #libtool object files
 *.lo
