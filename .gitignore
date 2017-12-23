@@ -1,7 +1,7 @@
 *.tar.gz
 
 *.exe
-src/litecoin
+src/denizlite
 src/denizlited
 src/denizlite-cli
 src/denizlite-tx
@@ -73,7 +73,7 @@ src/qt/test/moc*.cpp
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
+# Makefile
 denizlite-qt
 Denizlite-Qt.app
 
