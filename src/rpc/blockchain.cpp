@@ -1049,6 +1049,7 @@ static UniValue SoftForkMajorityDesc(int version, CBlockIndex* pindex, const Con
 {
     UniValue rv(UniValue::VOBJ);
     bool activated = false;
+	/*
     switch(version)
     {
         case 2:
@@ -1061,6 +1062,7 @@ static UniValue SoftForkMajorityDesc(int version, CBlockIndex* pindex, const Con
             activated = pindex->nHeight >= consensusParams.BIP65Height;
             break;
     }
+	*/
     rv.push_back(Pair("status", activated));
     return rv;
 }
