@@ -130,7 +130,7 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
+        <source>Send coins to a Denizlite address</source>
         <translation>Пошаљите новац на denizlite адресу</translation>
     </message>
     <message>

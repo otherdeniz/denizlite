@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.denizlite.LitecoinPayment</string>
+      <string>org.denizlite.DenizlitePayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>denizlite</string>
