@@ -5,7 +5,7 @@ Setup
 ---------------------
 Denizlite Core is the original Denizlite client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Denizlite transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Denizlite Core, visit [denizlite.org](https://denizlite.org).
+To download Denizlite Core, visit [denizlite.org](http://denizlite.org).
 
 Running
 ---------------------
@@ -28,10 +28,8 @@ Drag Denizlite-Core to your applications folder, and then run Denizlite-Core.
 
 ### Need Help?
 
-* See the documentation at the [Denizlite Wiki](https://denizlite.info/)
+* See the documentation at the [Denizlite Wiki](http://denizlite.org/)
 for help and more information.
-* Ask for help on [#denizlite](http://webchat.freenode.net?channels=denizlite) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=denizlite).
-* Ask for help on the [DenizliteTalk](https://denizlitetalk.io/) forums.
 
 Building
 ---------------------
@@ -61,7 +59,7 @@ The Denizlite repo's [root README](/README.md) contains relevant information on 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [DenizliteTalk](https://denizlitetalk.io/) forums.
+* Discuss on the [DenizliteTalk](http://denizlitetalk.io/) forums.
 * Discuss general Denizlite development on #denizlite-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=denizlite-dev).
 
 ### Miscellaneous

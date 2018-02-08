@@ -526,7 +526,7 @@ std::string HelpMessage(HelpMessageMode mode)
 std::string LicenseInfo()
 {
     const std::string URL_SOURCE_CODE = "<https://github.com/otherdeniz/denizlite>";
-    const std::string URL_WEBSITE = "<https://denizlite.org>";
+    const std::string URL_WEBSITE = "<http://denizlite.org>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +
