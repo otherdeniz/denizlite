@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "locale": "cpp",
+        "memory": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xlocale": "cpp",
+        "xutility": "cpp",
+        "sstream": "cpp",
+        "iosfwd": "cpp",
+        "xfunctional": "cpp",
+        "xlocmon": "cpp",
+        "xtr1common": "cpp",
+        "xiosbase": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "array": "cpp",
+        "queue": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp"
+    }
+}
